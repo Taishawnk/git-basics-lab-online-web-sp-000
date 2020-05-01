@@ -17,7 +17,7 @@ describe( 'this lab', () => {
     chai.assert.pathExists( './my-repository/README.md', 'no README.md file found within "/my-repository"' );
   } )
 
-} )
+} ),fhjm,fhj
 
 describe( 'the local repository', () => {
 
